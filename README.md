@@ -11,7 +11,7 @@
 # Style de Texte
 
 Texte simple  
-** Ceci est un texte en gras **  
+**Ceci est un texte en gras**  
 Nous avons un **un texte** qui est à la fois en gras et simple.  
 _Texte en italique_  
 J'adore _Git et Github_  
@@ -19,3 +19,8 @@ J'adore _Git et Github_
 <sub>Mon texte est plus petit</sub>  
 <sup>SuperScript</sup>  
 retour à la ligne faire espace x2
+
+# Citations
+
+> Nous avons ici une citation
+> Nous avons imbriqué `une citation` ici
