@@ -72,5 +72,12 @@ C'est super fun Git et Github :rofl:
 ## Liste imbriquée
 
 - Element 1
-  - Elemen 1.A.1
-  * Element 1.A.2
+  - Element 1.A
+    - Elemen 1.A.1
+    - Element 1.A.2
+
+## To DO LIST
+
+- [x] Fromages
+- [ ] Yaourts
+- [ ] Laits
