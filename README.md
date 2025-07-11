@@ -48,3 +48,9 @@ Lien vers un autre fichier [Vers TEST.md](TEST.md)
 # Ajouter une image
 
 ![Logo l'école du web](https://static-media.hotmart.com/q9H1aUKyWyQPhGvUmWRGkAxKlCs=/0x120/https://uploads.teachablecdn.com/attachments/zxBQrN3T4qkJAud3mHUE_image+27.png)
+
+# Ajouter un emoji
+
+Pour trouver la liste des emojis disponibles avec Github : [Listes des emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+C'est super fun Git et Github :rofl:
