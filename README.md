@@ -22,5 +22,6 @@ retour à la ligne faire espace x2
 
 # Citations
 
-> Nous avons ici une citation  
-Nous avons imbriqué `une citation` ici  
+> Nous avons ici une citation
+
+Nous avons imbriqué `une citation` ici
