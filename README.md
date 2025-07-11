@@ -10,11 +10,12 @@
 
 # Style de Texte
 
-Texte simple
-** Ceci est un texte en gras **
-Nous avons un **un texte** qui est à la fois en gras et simple.
-_Texte en italique_
-J'adore _Git et Github_
-~~Oups c'est une erreur~~
-<sub>Mon texte est plus petit</sub>
-<sup>SuperScript</sup>
+Texte simple  
+** Ceci est un texte en gras **  
+Nous avons un **un texte** qui est à la fois en gras et simple.  
+_Texte en italique_  
+J'adore _Git et Github_  
+~~Oups c'est une erreur~~  
+<sub>Mon texte est plus petit</sub>  
+<sup>SuperScript</sup>  
+retour à la ligne faire espace x2
