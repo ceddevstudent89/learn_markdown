@@ -44,3 +44,7 @@ Pour aller sur mon site : [L'école du web](https://www.ecole-du-web.net/p/parco
 <a href="https://www.ecole-du-web.net/p/parcours" target="_blank">L'école du web</a>
 
 Lien vers un autre fichier [Vers TEST.md](TEST.md)
+
+# Ajouter une image
+
+![Logo l'école du web](https://static-media.hotmart.com/q9H1aUKyWyQPhGvUmWRGkAxKlCs=/0x120/https://uploads.teachablecdn.com/attachments/zxBQrN3T4qkJAud3mHUE_image+27.png)
